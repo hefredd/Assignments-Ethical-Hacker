@@ -1,5 +1,5 @@
 # Challenge 1: SQL Injection & Credential Cracking
-##Objective: Identify a vulnerable web input to extract database credentials and gain unauthorized access to a secondary server.
+## Objective: Identify a vulnerable web input to extract database credentials and gain unauthorized access to a secondary server.
 
 ## Vulnerability Profile
 Vulnerability: Union-Based SQL Injection.
